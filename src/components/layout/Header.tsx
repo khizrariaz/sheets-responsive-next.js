@@ -42,7 +42,7 @@ export default function Header() {
         <li className="space-x-5">
           <Link href="/">Home</Link>
 
-          <Link href="/about">About</Link>
+          <Link href="/about">About.</Link>
 
           <Link href="/contact">Contact</Link>
         </li>
